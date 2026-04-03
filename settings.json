@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "a12strikem",
+    "username": "bot12",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "peacful09.minehost.games",
+    "ip": "peacful.progamer.me",
     "port": 25565,
     "version": "",
     "try-creative": false
